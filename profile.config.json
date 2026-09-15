@@ -1,67 +1,73 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
+    "name": "Kevin Gibran",
+    "username": "retone-hub",
+    "headline": "Software Engineer | Web, Data & AI",
+    "affiliation": "Indo Global Mandiri University",
+    "location": "Indonesia",
     "status": "Learning / Building / Shipping",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build practical software systems with a focus on web development, application engineering, and data-driven solutions.",
+      "My work combines software engineering with continuous learning in data integration, mobile development, AI-assisted development, and modern developer tools."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Applied Software Engineering",
+    "direction": "Practical software engineering",
+    "themes": "Web apps / Data / AI-assisted development",
+    "narrative": "I am interested in building software that solves real-world problems through clean engineering practices, practical system design, data integration, and responsible use of modern AI tools."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Engineering",
+      "description": "Designing and building practical web applications with maintainable architecture, clean interfaces, and reliable functionality."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Data & Integration",
+      "description": "Working with relational databases, data processing, ETL workflows, and system integration."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "AI-Assisted Development",
+      "description": "Exploring how AI tools can improve software development workflows, problem solving, productivity, and system design."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Library Management",
+      "url": "https://github.com/retone-hub/library-management-system",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Library management application",
+      "summary": "An ongoing software project for managing library operations, designed to explore practical application architecture, database management, and user workflows.",
+      "heroLabel": "Active project"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Maintenance System",
+      "url": "https://youtu.be/dQw4w9WgXcQ?si=6aLiUQacLLAWIXhc",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Maintenance management application",
+      "summary": "A web application for managing maintenance work orders, equipment information, and operational workflows.",
+      "heroLabel": "Main project"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
+    "PHP",
+    "CodeIgniter 4",
+    "Laravel",
+    "JavaScript",
+    "Tailwind CSS",
     "PostgreSQL",
-    "Playwright"
+    "Flutter",
+    "Dart",
+    "Pentaho Data Integration",
+    "Git",
+    "GitHub"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "retone-hub",
+      "url": "https://github.com/retone-hub",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +79,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building practical software, learning continuously, and exploring better ways to build with technology."
 }
